@@ -22,7 +22,7 @@ class Solution {
         long firstHor = 0, secondHor = totalSum;
 
         
-        for(int i=0;i<=m-1;i++)
+        for(int i=0;i<m-1;i++)
         {
             for(int j=0;j<n;j++)
             {
